@@ -1,0 +1,29 @@
+#header-cf{
+    box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
+    background-color: white;
+    // background: rgb(0,0,0);
+// background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.9332107843137255) 27%, rgba(1,16,19,1) 100%);
+}
+#header-cf a h2{
+    color: rgb(22, 22, 22);
+    font-family: "Lilita One", sans-serif;
+}
+#header-cf a h2 span{
+    color: rgb(22, 22, 22);
+}
+#header-cf #logo{
+    font-weight: 700;
+    font-style: normal;
+}
+#header-cf ul{
+   width: 100%;
+}
+#header-cf li{
+    font-size: 20px;
+    font-weight: 600;
+    padding: 0 10px;
+}
+#header-cf li a{
+    text-decoration: none;
+    color: rgb(22, 22, 22);
+}

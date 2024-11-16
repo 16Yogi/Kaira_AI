@@ -1,0 +1,63 @@
+#singup-form{
+    height: 651px;
+    // background: rgb(65,2,82);
+// background: linear-gradient(90deg, rgba(65,2,82,0.835171568627451) 0%, rgba(1,1,54,0.76234243697479) 35%, rgba(2,13,33,0.7511379551820728) 100%);
+    background: rgb(196,10,246);
+    background: linear-gradient(90deg, rgba(115, 3, 146, 0.835) 0%, rgba(45,45,255,0.76234243697479) 35%, rgba(1,91,255,0.7511379551820728) 100%);
+    // background: rgb(181,8,171);
+    // background: linear-gradient(90deg, rgba(181,8,171,1) 0%, rgba(82,82,255,0.9332107843137255) 27%, rgba(0,212,255,1) 100%);
+
+}
+.login-page {
+  width: 360px;
+  padding: 8% 0 0;
+  margin: auto;
+}
+.form {
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 360px;
+  margin: 0 auto 100px;
+  padding: 45px;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.form input {
+  outline: 0;
+  background: #f2f2f2;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+.form button {
+  text-transform: capitalize;
+  outline: 0;
+//   background: #4CAF50;
+  font-weight: 700;
+  width: 100%;
+  border: 0;
+  padding: 15px;
+  color: #FFFFFF;
+  font-size: 16px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+}
+
+.form .message {
+  margin: 15px 0 0;
+  color: #b3b3b3;
+  font-size: 14px;
+}
+.form .message a {
+//   color: #4CAF50;
+  text-decoration: none;
+}
+.form .register-form {
+  display: none;
+}

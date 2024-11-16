@@ -1,0 +1,47 @@
+#footer-cf{
+    color: white;
+    background: rgb(2,1,24);
+    background: linear-gradient(90deg, rgba(2,1,24,1) 0%, rgba(1,1,46,1) 35%, rgba(0,0,0,1) 100%);
+}
+#footer-cf h2{
+    font-size: 30px;
+    line-height: 100px;
+    font-weight: 700;
+    font-family: "Anton", sans-serif;
+}
+#footer-cf h4{
+    line-height: 60px;
+    font-size: 20px;
+    font-weight: 700;
+}
+#footer-cf ul{
+    height: auto;
+    width: 40%;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+#footer-cf ul li a{
+    font-size: 22px;
+    color: white;
+}
+#footer-cf ul li a:hover{
+    transition: 0.5s;
+    color: rgb(53, 255, 255);
+}
+#footer-cf #form input{
+    width: 70%;
+    margin-right: 4%;
+    display: inline-block;
+}
+#footer-cf #form button{
+    width: 26%;
+    margin-top: -6px;
+    font-weight: 700;
+    display: inline-block;
+}
+#copyright{
+    font-weight: 700;
+    color: white;
+    background-color: black;
+}

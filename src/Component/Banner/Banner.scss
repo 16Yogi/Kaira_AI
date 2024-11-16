@@ -1,0 +1,21 @@
+#banner-cf{
+    height: auto;
+    width: 100;
+    background: rgb(181,8,171);
+    background: linear-gradient(90deg, rgba(181,8,171,1) 0%, rgba(82,82,255,0.9332107843137255) 27%, rgba(0,212,255,1) 100%);
+}
+#banner-cf h2{
+    font-size: 55px;
+    // font-family: "Lilita One", sans-serif;
+    color: white;
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-top: 170px;
+}
+#banner-cf p{
+    font-size: 16px;
+    font-weight: 700;
+    padding-top: 20px;
+    color: white;
+}
