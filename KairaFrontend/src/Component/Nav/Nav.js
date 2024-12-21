@@ -27,7 +27,7 @@ export default function Nav() {
                                     </a>
                                 </li>
                                 <li className="nav-item">
-                                    <a className="nav-link" href="/">About</a>
+                                    <a className="nav-link" href="/aboutpage">About</a>
                                 </li>
                                 <li className="nav-item">
                                     <a className="nav-link" href="/login">Singin</a>

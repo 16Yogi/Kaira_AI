@@ -47,6 +47,9 @@ export default function Banner() {
                         <TextTransition springConfig={presets.wobbly}>{TEXTS[index % TEXTS.length]}!</TextTransition>
                         </h2>
                         <p>Kaira is an AI designed to assist, learn, and engage users, providing helpful insights and enhancing everyday interactions effortlessly.</p>
+                        <a href="/Chat">
+                            <button className="btn btn-white">Hey! Let's talk</button>
+                        </a>
                     </div>
                 </div>
             </div>
