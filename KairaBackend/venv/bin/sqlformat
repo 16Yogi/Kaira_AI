@@ -1,4 +1,4 @@
-#!/home/kali/Desktop/Data/Project/KairaBackend/venv/bin/python
+#!/home/kali/Desktop/Data/Project/Kaira_AI_Frontend/KairaBackend/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
